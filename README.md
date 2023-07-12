@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stnedi
-- 👀 Just a game developer trying to make it in this crazy world. When I'm not coding, I'm levelling up my gaming skills. #gamedevlife"
-- 🌱 I’m currently learning c#, Unity, Quest Text Adventure
+- 👀 Coding my way towards a better life
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on learning on the above
 - 📫 You can reach me on twitter
 
