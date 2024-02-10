@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stnedi
 - 👀 Coding my way towards a better life
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning React Vite MongoDB CSS
 - 💞️ I’m looking to collaborate on learning on the above
 - 📫 You can reach me on twitter
 
