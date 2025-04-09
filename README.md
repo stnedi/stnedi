@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stnedi
 - 👀 Coding my way towards a better life
-- 🌱 I’m currently learning Python amongst other things
-- 💞️ I’m looking to collaborate on learning on the above
+- 🌱 I’m currently coding some Lua/LÖVE apps and games
+- 💞️ I’m looking to collaborate and be mentored
 - 📫 You can reach me on twitter
 
 <!---
