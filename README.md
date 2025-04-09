@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stnedi
+- 👋 Hi, I’m @stnedi (pronouced Sten-di)
 - 👀 Coding my way towards a better life
 - 🌱 I’m currently coding some Lua/LÖVE apps and games
 - 💞️ I’m looking to collaborate and be mentored
