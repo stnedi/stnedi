@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stnedi (pronouced Sten-di)
 - 👀 Coding my way towards a better life
-- 🌱 I’m currently coding some Lua/LÖVE apps and games
+- 🌱 I’m currently coding in Unity 2022 LTD
 - 💞️ I’m looking to collaborate and be mentored
 - 📫 You can reach me on twitter
 
